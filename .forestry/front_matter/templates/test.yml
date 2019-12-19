@@ -1,4 +1,16 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: '1'
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: '1'
